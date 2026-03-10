@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Rational.fsi" />
+    <Compile Include="Rational.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
