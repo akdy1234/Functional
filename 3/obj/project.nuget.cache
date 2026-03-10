@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QOP3ZcT2qE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aksel\\onedrive\\skrivebord\\4\\func\\f#\\3\\3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksel\\.nuget\\packages\\fsharp.core\\10.0.102\\fsharp.core.10.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}

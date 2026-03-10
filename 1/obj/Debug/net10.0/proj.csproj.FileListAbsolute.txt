@@ -1,0 +1,4 @@
+C:\Users\aksel\OneDrive\Skrivebord\4\Func\F#\1\obj\Debug\net10.0\proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksel\OneDrive\Skrivebord\4\Func\F#\1\obj\Debug\net10.0\proj.AssemblyInfoInputs.cache
+C:\Users\aksel\OneDrive\Skrivebord\4\Func\F#\1\obj\Debug\net10.0\proj.AssemblyInfo.cs
+C:\Users\aksel\OneDrive\Skrivebord\4\Func\F#\1\obj\Debug\net10.0\proj.csproj.CoreCompileInputs.cache

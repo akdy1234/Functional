@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Rational">
+    <resource name="FSharpSignatureData.Rational" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Rational" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Rational" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Rational" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Rational" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Rational" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Rational" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Rational" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Rational" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Rational" action="remove"></resource>
+  </assembly>
+</linker>
