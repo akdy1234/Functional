@@ -1,0 +1,5 @@
+C:\Users\aksel\Desktop\s4\fp\git\Functional\5\Assignment5 template\Assignment5\obj\Debug\net9.0\Assignment5.fsproj.AssemblyReference.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\5\Assignment5 template\Assignment5\obj\Debug\net9.0\Assignment5.AssemblyInfoInputs.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\5\Assignment5 template\Assignment5\obj\Debug\net9.0\Assignment5.AssemblyInfo.fs
+C:\Users\aksel\Desktop\s4\fp\git\Functional\5\Assignment5 template\Assignment5\obj\Debug\net9.0\Assignment5.fsproj.CoreCompileInputs.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\5\Assignment5 template\Assignment5\obj\Debug\net9.0\Assignment5.sourcelink.json

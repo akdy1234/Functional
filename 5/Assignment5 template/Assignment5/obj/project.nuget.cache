@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MAFgl4U2SU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aksel\\Desktop\\s4\\fp\\git\\Functional\\5\\Assignment5 template\\Assignment5\\Assignment5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksel\\.nuget\\packages\\fsharp.core\\10.0.102\\fsharp.core.10.0.102.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
