@@ -78,3 +78,6 @@ module Interpreter.Eval
             aexprEval e1 st |> Option.bind (fun ptr ->
             aexprEval e2 st |> Option.bind (fun v ->
             setMem ptr v st))
+
+    let arithEval = aexprEval
+    let boolEval = bexprEval
