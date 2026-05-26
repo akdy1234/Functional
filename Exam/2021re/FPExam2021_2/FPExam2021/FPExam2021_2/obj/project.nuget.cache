@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kgH2RebvN2OuWY5R1DKBOPWUorUHMpp+7amvEztnl5PwaZkY9BklxrYu3lLCQwWdSlYBZCH8DwW405GUJ7/XvQ==",
+  "success": true,
+  "projectFilePath": "/Users/jebe/OneDrive - ITU/teaching/courses/FP2021/ReExam/FPExam2021_2/FPExam2021/FPExam2021_2/FPExam2021_2.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jebe/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

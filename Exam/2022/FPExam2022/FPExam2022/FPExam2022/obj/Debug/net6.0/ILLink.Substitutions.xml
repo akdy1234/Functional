@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="FPExam2022">
+    <resource name="FSharpSignatureData.FPExam2022" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.FPExam2022" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.FPExam2022" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.FPExam2022" action="remove"></resource>
+    <resource name="FSharpOptimizationData.FPExam2022" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.FPExam2022" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.FPExam2022" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.FPExam2022" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.FPExam2022" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.FPExam2022" action="remove"></resource>
+  </assembly>
+</linker>

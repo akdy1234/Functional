@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/y6zYG7tzQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aksel\\Desktop\\s4\\fp\\git\\Functional\\Exam\\2023re\\FPExam2023_2\\FPReExam2023\\FPReExam2023.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksel\\.nuget\\packages\\fsharp.core\\10.0.102\\fsharp.core.10.0.102.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\aksel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

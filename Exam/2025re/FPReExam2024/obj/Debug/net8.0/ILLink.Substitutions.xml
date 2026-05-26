@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="FPReExam2024">
+    <resource name="FSharpSignatureData.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpOptimizationData.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.FPReExam2024" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.FPReExam2024" action="remove"></resource>
+  </assembly>
+</linker>

@@ -10,7 +10,6 @@ let reservedVariableName (str: string) : bool =
     
     
     
-    
 let validVariableName (str: string) : bool =
     let first = str.[0]
     let start = System.Char.IsAsciiLetter(first) || first = '_'

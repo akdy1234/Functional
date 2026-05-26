@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="FPExam2023">
+    <resource name="FSharpSignatureData.FPExam2023" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.FPExam2023" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.FPExam2023" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.FPExam2023" action="remove"></resource>
+    <resource name="FSharpOptimizationData.FPExam2023" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.FPExam2023" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.FPExam2023" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.FPExam2023" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.FPExam2023" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.FPExam2023" action="remove"></resource>
+  </assembly>
+</linker>
