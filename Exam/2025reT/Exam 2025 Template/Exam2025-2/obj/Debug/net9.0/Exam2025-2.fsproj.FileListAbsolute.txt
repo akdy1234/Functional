@@ -1,0 +1,88 @@
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/Exam2025-2
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/Exam2025-2.deps.json
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/Exam2025-2.runtimeconfig.json
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/Exam2025-2.pdb
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/FSharp.Core.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/cs/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/de/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/es/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/fr/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/it/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/ja/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/ko/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/pl/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/pt-BR/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/ru/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/tr/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/zh-Hans/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/bin/Debug/net9.0/zh-Hant/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.fsproj.AssemblyReference.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.AssemblyInfoInputs.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.AssemblyInfo.fs
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.fsproj.CoreCompileInputs.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.fsproj.Up2Date
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/refint/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.pdb
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/Exam2025-2.genruntimeconfig.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam2025-2/Exam2025-2/obj/Debug/net9.0/ref/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.fsproj.AssemblyReference.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.AssemblyInfoInputs.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.AssemblyInfo.fs
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.fsproj.CoreCompileInputs.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/refint/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.pdb
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/Exam2025-2
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/Exam2025-2.deps.json
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/Exam2025-2.runtimeconfig.json
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/Exam2025-2.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/Exam2025-2.pdb
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/FSharp.Core.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/cs/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/de/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/es/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/fr/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/it/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/ja/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/ko/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/pl/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/pt-BR/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/ru/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/tr/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/zh-Hans/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/bin/Debug/net9.0/zh-Hant/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.fsproj.Up2Date
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/Exam2025-2.genruntimeconfig.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/ReExam/Exam/Exam2025-Template/Exam2025-2/obj/Debug/net9.0/ref/Exam2025-2.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\Exam2025-2.exe
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\Exam2025-2.deps.json
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\Exam2025-2.runtimeconfig.json
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\Exam2025-2.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\Exam2025-2.pdb
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\FSharp.Core.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\cs\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\de\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\es\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\fr\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\it\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\ja\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\ko\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\pl\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\ru\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\tr\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\bin\Debug\net9.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.fsproj.AssemblyReference.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.AssemblyInfoInputs.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.AssemblyInfo.fs
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.fsproj.CoreCompileInputs.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.sourcelink.json
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.fsproj.Up2Date
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\refint\Exam2025-2.dll
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.pdb
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\Exam2025-2.genruntimeconfig.cache
+C:\Users\aksel\Desktop\s4\fp\git\Functional\Exam\2025reT\Exam 2025 Template\Exam2025-2\obj\Debug\net9.0\ref\Exam2025-2.dll

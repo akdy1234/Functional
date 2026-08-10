@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQ/aL9xjvp8=",
+  "success": true,
+  "projectFilePath": "/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2026/Exam/FPExam2026/Exam2026_Template/Exam2026_Template.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jebe/.nuget/packages/fsharp.core/10.0.103/fsharp.core.10.0.103.nupkg.sha512"
+  ],
+  "logs": []
+}

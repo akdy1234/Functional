@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("FPExam2023")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6290b3bd17967e3d6a180c23e9f20303feb0dac9")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2725760f5ff9bbbc298fa2a80f3d2097c5d3ad4")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("FPExam2023")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("FPExam2023")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Exam2025-2">
+    <resource name="FSharpSignatureData.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Exam2025-2" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Exam2025-2" action="remove"></resource>
+  </assembly>
+</linker>

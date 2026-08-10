@@ -86,6 +86,8 @@ module Exam2025_Template.Exam
             else aux cx (cy + 1) (Set.add (C(cx, cy)) acc)
         aux x y Set.empty
 
+    let funky x = x + x
+
 
     (* ── Question 1.4 ────────────────────────────────────────────── *)
 
