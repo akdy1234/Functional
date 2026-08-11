@@ -507,6 +507,80 @@ Removes duplicate elements, keeping first occurrence order.
 List.distinct [1;2;2;3;1]   // [1;2;3]
 ```
 
+### `List.reduce`
+Like `List.fold`, but uses the **first element as the seed** instead of a separate initial value — no need to supply a starting accumulator. **Crashes on `[]`** (unlike `fold`, which handles the empty list fine since it has an explicit seed).
+```fsharp
+List.reduce (+) [1;2;3;4]   // 10
+List.reduce (fun a b -> if a > b then a else b) [3;7;2]   // 7
+```
+
+### `List.mapi` / `List.iteri`
+Like `List.map`/`List.iter`, but the function also receives the element's **index** as the first argument.
+```fsharp
+List.mapi (fun i x -> (i, x)) ["a";"b";"c"]   // [(0,"a"); (1,"b"); (2,"c")]
+List.iteri (fun i x -> printfn "%d: %s" i x) ["a";"b"]
+```
+
+### `List.groupBy`
+Groups elements into `(key, elements)` pairs, based on a key function — all elements sharing a key end up together in one list.
+```fsharp
+List.groupBy (fun x -> x % 2) [1;2;3;4;5]
+// [(1, [1;3;5]); (0, [2;4])]
+```
+
+### `List.append`
+Function form of `@` — concatenates two lists. Same O(n)-in-left-list-length cost as `@`.
+```fsharp
+List.append [1;2] [3;4]   // [1;2;3;4]
+```
+
+### `List.indexed`
+Pairs every element with its index, as a list of tuples — an alternative to `mapi` when you just want the pairs, not a transformation.
+```fsharp
+List.indexed ["a";"b";"c"]   // [(0,"a"); (1,"b"); (2,"c")]
+```
+
+### `List.contains`
+True if the given value appears anywhere in the list (equality check element by element).
+```fsharp
+List.contains 3 [1;2;3]   // true
+List.contains 9 [1;2;3]   // false
+```
+
+### `List.max` / `List.min` / `List.maxBy` / `List.minBy`
+`max`/`min` return the largest/smallest element directly (must be comparable); `maxBy`/`minBy` pick the element for which a **key function** is largest/smallest. All **crash on `[]`**.
+```fsharp
+List.max [3;1;4;1;5]   // 5
+List.min [3;1;4;1;5]   // 1
+List.maxBy (fun (_, age) -> age) [("Bob",30); ("Amy",20)]   // ("Bob",30)
+List.minBy String.length ["ccc";"a";"bb"]   // "a"
+```
+
+### `List.replicate`
+Builds a list containing the same value repeated `n` times.
+```fsharp
+List.replicate 3 "x"   // ["x";"x";"x"]
+```
+
+### `List.splitAt`
+Splits a list into two lists at a given index — returns a tuple `(before, from-index-onward)`. Different from `take`/`skip`, which each give you only one side.
+```fsharp
+List.splitAt 2 [1;2;3;4]   // ([1;2], [3;4])
+```
+
+### `List.unzip`
+The inverse of `List.zip` — splits a list of tuples into a tuple of two lists.
+```fsharp
+List.unzip [(1,"a"); (2,"b"); (3,"c")]   // ([1;2;3], ["a";"b";"c"])
+```
+
+### `List.isEmpty`
+True if the list has no elements — a readable alternative to `xs = []`.
+```fsharp
+List.isEmpty []        // true
+List.isEmpty [1;2;3]   // false
+```
+
 ---
 
 ## Seq module — lazy sequences (for infinite generation)

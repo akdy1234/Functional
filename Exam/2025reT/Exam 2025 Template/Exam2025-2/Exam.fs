@@ -112,6 +112,32 @@ module Exam2025_Template.Exam
        does, and List.forall already does exactly what `bar` does, so baz2 is just their composition with
        the same predicate baz used. This is "clean and simple" precisely because it needs no recursion of
        its own at all. *)
+       
+
+
+    let baz3 (lst: int list) : bool = 
+        lst |> List.pairwise |> List.forall (fun (x, y) -> (x + y) % 2 <> 0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     let baz2 (xs : int list) : bool =
         xs |> List.pairwise |> List.forall (fun (x, y) -> (x + y) % 2 <> 0)
 
@@ -156,6 +182,35 @@ module Exam2025_Template.Exam
       the function's result with nothing left pending. Because foo's recursive call is always used as an
       argument to `::` rather than being returned directly, foo is not tail recursive.
     *)
+
+
+
+
+    let rec foo a =
+        match a with
+        | [] -> []
+        | [x] -> []
+        | x :: y :: xs -> (x, y) :: foo (y :: xs)
+
+
+    let foo2 lst =
+        let rec aux acc lst = 
+            match lst with 
+            | [] -> List.rev acc
+            | [x] -> List.rev acc
+            | x :: y :: xs -> aux ((x,y) :: acc) (y :: xs)
+        aux [] lst
+
+
+
+
+
+
+
+
+
+
+
 
     (* Question 2.5
        Continuation-passing version of foo. Instead of doing "(x,y) :: (...)" after the recursive call

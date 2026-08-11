@@ -89,6 +89,14 @@ module Exam2026_Template.Exam
         reached, i.e. x >= 2.)
     *)
 
+
+    
+
+
+
+
+
+
     (* Question 2.2
        foo's first branch ("x = a -> a") is redundant: whenever a has climbed all the way up to x, x % a is
        x % x, which is always 0, so the second branch ("x % a = 0 -> a") already catches that case too.
