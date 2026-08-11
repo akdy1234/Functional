@@ -260,6 +260,64 @@ module Exam2026_Template.Exam
 
     (* Question 4: The N-Queens problem (25%) *)
 
+
+
+    
+
+
+
+
+    type board2 = {width: int; queen: (int*int) list}
+
+    let empty2 (N: int) : board2 = {width = N; queen = []}
+
+    let get_dimension2 (b: board2) = b.width
+
+    let has_queen (r: int) (c: int) (b: board2) : bool = 
+        if c < b.width && r < b.width then List.contains (r, c) b.queen else false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     (* Question 4.1
        We represent a board simply as its size plus the list of (row, column) squares that currently hold a
        queen. This is deliberately the simplest possible immutable representation: no arrays, no mutation,
