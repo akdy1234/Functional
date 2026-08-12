@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ReExam2026_Template">
+    <resource name="FSharpSignatureData.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ReExam2026_Template" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ReExam2026_Template" action="remove"></resource>
+  </assembly>
+</linker>

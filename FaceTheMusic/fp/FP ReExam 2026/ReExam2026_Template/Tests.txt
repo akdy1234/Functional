@@ -1,0 +1,115 @@
+This file contains all of the examples from the exam set
+
+Q1.1
+
+> [0..9] |> List.map tribonacci
+- val it: int list = [0; 0; 1; 1; 2; 4; 7; 13; 24; 44]
+
+Q1.3
+
+> [5..10] |> List.map approx
+- val it: float list =
+  [2.0; 1.75; 1.857142857; 1.846153846; 1.833333333; 1.840909091]
+
+Q1.4
+
+> approx_steps_needed 0.1
+- val it: int = 6
+
+> approx_steps_needed 0.001
+- val it: int = 11
+
+> approx_steps_needed 0.0000001
+- val it: int = 21
+
+Q1.5
+
+> tribonacci_seq |> Seq.take 10 |> Seq.toList
+val it: int list = [0; 0; 1; 1; 2; 4; 7; 13; 24; 44]
+
+Q3.1
+
+
+> next 5 'a'
+- val it: char = 'f'
+
+> next 5 'z'
+- val it: char = 'e'
+
+Q3.2
+
+> prev 5 'a'
+- val it: char = 'v'
+
+> prev 5 'z'
+- val it: char = 'u'
+
+Q3.3
+
+> encode_fun (fun c -> let cstr = string c in cstr + cstr) "Hello World!"
+- val it: String = "HHeelllloo  WWoorrlldd!!"
+
+> encode2 "Hello World!"
+- val it: String = "HoHelollolo WoWororloldod!"
+
+Q3.4
+
+run pencode "hello    world!!!"
+val it: Result<string,string> = Ok "hfnos wptoh!!!
+
+Q4.2
+
+> let b1 = empty 3 |> place_knight 0 0 |> Option.bind (place_knight 0 2) |> Option.bind (place_knight 2 0)
+- val b1: board option = 
+     |---|---|---|
+     | K |   |   | 2
+     |---|---|---|
+Some |   |   |   | 1
+     |---|---|---|
+     | K |   | K | 0
+     -------------
+       0   1   2
+	   
+> let b2 = b1 |> Option.bind (place_knight 2 2) |> Option.bind (place_knight 1 1)
+- val b2: board option = 
+     |---|---|---|
+     | K |   | K | 2
+     |---|---|---|
+Some |   | K |   | 1
+     |---|---|---|
+     | K |   | K | 0
+     -------------
+       0   1   2
+	   
+b1 |> Option.bind (place_knight 1 2)
+val it: board option = None
+
+> b1 |> Option.get |> valid_solution
+- val it: bool = false
+  
+> b2 |> Option.get |> valid_solution
+- val it: bool = true
+
+Q4.3 
+
+> 3 |> evalCM (place_knight2 0 0 >>>= place_knight2 0 2 >>>= place_knight2 2 0 >>>= 
+        place_knight2 2 2 >>>= place_knight2 1 1 >>>= valid_solution2) |> Option.map fst
+val it: bool option = Some true
+
+> 3 |> evalCM (place_knight2 0 0 >>>= place_knight2 0 2 >>>= place_knight2 2 0 >>>= valid_solution2) |> Option.map fst
+val it: bool option = Some false
+
+> 3 |> evalCM (place_knight2 0 0 >>>= place_knight2 1 2 >>>= valid_solution2) |> Option.map fst
+- val it: bool option = None
+
+Q4.4
+
+> 3 |> evalCM (create_solution [(0, 0); (0, 2); (2, 0); (2, 2); (1, 1)]) |> Option.map fst
+- val it: bool option = Some true
+
+> 3 |> evalCM (create_solution [(0, 0); (0, 2); (2, 0)]) |> Option.map fst
+- val it: bool option = Some false
+  
+> 3 |> evalCM (create_solution [(0, 0); (1, 2)]) |> Option.map fst
+- val it: bool option = None 
+
